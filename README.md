@@ -53,7 +53,7 @@ The dataset is made 6 decision variables and 1 class variable.
 
 The dataset is already cleaned, and it is ready for performing the decision tree.
 
-Calculating Euclidean Distance
+# Calculating Euclidean Distance
 
 This section will show how to calculate Euclidean Distance an Occupancy Detection dataset.
  
