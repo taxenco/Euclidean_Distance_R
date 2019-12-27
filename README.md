@@ -80,16 +80,17 @@ Finally, we can define the classes and query all the points and find out where t
  
 - Example 1 in the code:
  
-Class 1 > = K
-Class 2 < K
-Query point à K= 2
+Class 1 > = K, 
+Class 2 < K, 
+Query point à K= 2 -->
 The query point belongs to class 1 
  
 - Example 2 in the code:
 
-Class 1 > = K
-Class 2 < K
-Query point à K= 200
+Class 1 > = K, 
+Class 2 < K, 
+Query point à K= 200 -->
+
 The query point belongs to class 0 
 
 # Conclusion
